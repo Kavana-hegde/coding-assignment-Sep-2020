@@ -1,0 +1,14 @@
+Number of Employees : 6
+{'sandwich': 2195, 'cult pass': 2799, 'Scale': 4999, 'fitbit plus': 7980, 'microwave oven': 9800, 'alexa': 9999}
+difference between highest and lowest price is 7804
+
+
+
+Number of Employees : 2
+{'microwave oven': 9800, 'alexa': 9999}
+Minimum difference is 199
+
+
+Number of Employees : 4
+{'fitbit plus': 7980, 'microwave oven': 9800, 'alexa': 9999, 'digital camera': 11101}
+Minimum difference is 3121
